@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bob Burke! <br/><a href="https://github.com/joshmadakor1">CyberSecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Bob Burke! <br/><a href="https://github.com/joshmadakor1">Instructor</a>, <a href="https://www.linkedin.com/in/robert-bob-burke/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Writer</a></h1>
 
 <h2>👨‍💻 Cybersecurity, Cloud & Data Analysic Projects:</h2>
 
